@@ -44,7 +44,7 @@ h2 {
 border-radius: 6px;
   margin-top: 7%;
 background: linear-gradient(to bottom, #DDFBFF 0%, #1C6EA4 72%, #B29BC5 100%);
-transform: scale(0.9) translate(0px, 8px) skew(20deg, 10deg);
+
 }
 
 .smurf-logo {
@@ -128,6 +128,6 @@ input {
       transform: rotate(0deg);
   }
   to {
-      transform: rotate(360deg);
+      transform: rotate(180deg);
   }
 }
